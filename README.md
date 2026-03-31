@@ -86,5 +86,7 @@ The dataset used in this project contains personal alumni information collected 
 ## Internship Context
 
 **Organization:** Directorate of Student Affairs, Career Development, and Alumni — Telkom University
+
 **Period:** July 1, 2024 – September 1, 2024
+
 **Program:** S1 Informatics, Faculty of Informatics, Telkom University
