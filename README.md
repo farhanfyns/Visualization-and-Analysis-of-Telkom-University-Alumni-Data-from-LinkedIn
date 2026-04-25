@@ -23,9 +23,9 @@ This project collected, cleaned, and visualized career data from 2,500 alumni pr
 
 ## Tools
 
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)
+- LinkedIn
+- Microsoft Excel
+- Tableau
 
 ---
 
@@ -85,7 +85,7 @@ The dataset used in this project contains personal alumni information collected 
 
 ## Internship Context
 
-**Organization:** Directorate of Student Affairs, Career Development, and Alumni — Telkom University
+**Organization:** Directorate of Student Affairs, Career Development, and Alumni (CAE) — Telkom University
 
 **Period:** July 1, 2024 – September 1, 2024
 
