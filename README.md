@@ -47,10 +47,10 @@ The interactive dashboard consists of 9 key visualizations:
 
 ## Key Findings
 
-- Out of 2,500 alumni, the majority chose intrapreneur careers (853 alumni, 34.12%) over entrepreneur (24 alumni, 0.96%)
+- Out of 2,500 alumni, 1,313 (52.52%) do not have a LinkedIn profile, highlighting a significant gap in digital professional presence among graduates
+- Out of those with known career data, the majority chose intrapreneur careers (853 alumni, 34.12%) over entrepreneur (24 alumni, 0.96%)
 - Most alumni are employed at national companies (647 alumni), followed by multinational companies (133 alumni)
-- The telecommunications and digital technology sectors dominate alumni career distribution
-- Telkomsel and Telkom Indonesia are the top employers among alumni
+- The telecommunications and digital technology sectors dominate alumni career distribution, with Telkomsel and Telkom Indonesia as the top employers
 - Most alumni hold professional-level positions (450 alumni), followed by managerial roles (245 alumni)
 - The majority of alumni are based in Indonesia, with notable concentrations in Singapore, the United States, and Malaysia
 - Faculty of Economics and Business (FEB), particularly S1 Management, contributed the most data due to job description allocation during data collection
@@ -85,8 +85,6 @@ The dataset used in this project contains personal alumni information collected 
 
 ## Internship Context
 
-**Organization:** Directorate of Student Affairs, Career Development, and Alumni (CAE) — Telkom University
-
-**Period:** July 1, 2024 – September 1, 2024
-
 **Program:** S1 Informatics, Faculty of Informatics, Telkom University
+
+**Organization:** Directorate of Student Affairs, Career Development, and Alumni (CAE) — Telkom University
